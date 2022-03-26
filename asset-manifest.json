@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/marky/static/css/main.1d936d2f.css",
+    "main.js": "/marky/static/js/main.e6eef6ed.js",
+    "static/js/787.3b53d674.chunk.js": "/marky/static/js/787.3b53d674.chunk.js",
+    "index.html": "/marky/index.html",
+    "main.1d936d2f.css.map": "/marky/static/css/main.1d936d2f.css.map",
+    "main.e6eef6ed.js.map": "/marky/static/js/main.e6eef6ed.js.map",
+    "787.3b53d674.chunk.js.map": "/marky/static/js/787.3b53d674.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d936d2f.css",
+    "static/js/main.e6eef6ed.js"
+  ]
+}
